@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-analytics","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Analytics\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Analytics\\AnalyticsServiceProvider"]},"liberu":{"name":"crm-analytics"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-analytics","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Analytics\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Analytics\\AnalyticsServiceProvider"]},"liberu":{"name":"crm-analytics"}}}
