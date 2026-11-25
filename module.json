@@ -2,7 +2,7 @@
   "name": "crm-analytics",
   "display_name": "CRM Analytics",
   "description": "Governed CRM analytics assets and executions",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "capability",
   "provider": "Liberu\\CRM\\Analytics\\AnalyticsServiceProvider",
   "requires": {
